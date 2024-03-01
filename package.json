@@ -128,5 +128,6 @@
   },
   "resolutions": {
     "csstype": "^3.0.2"
-  }
+  },
+  "packageManager": "yarn@1.22.19"
 }
